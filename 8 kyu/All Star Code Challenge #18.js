@@ -9,4 +9,4 @@ function strCount(str, letter) {
   return letterCount;
 }
 
-//strCount("geet", "g");
+strCount("geet", "g");
